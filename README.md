@@ -3,7 +3,9 @@
 
 # Hi there <img src="https://user-images.githubusercontent.com/16977090/173189109-281b62f1-001d-4a55-a0aa-d6f9ba64a9f0.gif" width="35px" alt="hi">
 
-Hi there! I'm Saiful Islam Rafi — a Computer Science and Engineering(CSE) student at @Premier University, Chittagong, Bangladesh <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJLKt7BWRIjFtCTU9BebFOvk0G0tSXb09pA&s' width='18'/>. I'm passionate about building clean and efficient software, and my goal is to become a skilled Software Engineer. I'm currently learning Java and exploring the world of development one project at a time.
+I'm Saiful Islam Rafi — a Computer Science and Engineering (CSE) student at <b>Premier University, Chittagong, Bangladesh</b> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJLKt7BWRIjFtCTU9BebFOvk0G0tSXb09pA&s" width="18"/>.<br>
+I'm passionate about building clean and efficient software, and my goal is to become a <b>skilled Software Engineer</b>. I'm currently learning <b>Java</b> and exploring the world of development, one project at a time.
+
 
 <h3>Contact with me!</h3>
 
