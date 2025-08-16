@@ -1,6 +1,9 @@
 
 <img src="https://github.com/mrrafi71/mrrafi71/blob/main/MrRafi-GitHub-profileImages.png">
 
+
+
+
 # Hi there <img src="https://user-images.githubusercontent.com/16977090/173189109-281b62f1-001d-4a55-a0aa-d6f9ba64a9f0.gif" width="35px" alt="hi">
 
 I'm Saiful Islam Rafi — a Computer Science and Engineering (CSE) student at <b>Premier University, Chittagong, Bangladesh</b> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJLKt7BWRIjFtCTU9BebFOvk0G0tSXb09pA&s" width="18"/>.<br>
@@ -27,16 +30,12 @@ I'm passionate about building clean and efficient software, and my goal is to be
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsWithRafi&layout=compact&theme=radical&cache_seconds=60)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devsWithRafi&show_icons=true&theme=radical)](https://github.com/devsWithRafi)
 
 
 
 
----
-
-### Projects List: 
-#### [Project-1](https://lovely-semifreddo-f46488.netlify.app/)
 
 
 ---
-⚡ **Fun Fact**: I'm always curious about how things work behind the scenes!  
-🚀 Let's connect and build amazing things together!  
+
