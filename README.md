@@ -1,12 +1,10 @@
 
 <img src="https://github.com/mrrafi71/mrrafi71/blob/main/MrRafi-GitHub-profileImages.png">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Saiful+Islam+Rafi!;" /> 
-</h1>
 
 
-I'm a Computer Science and Engineering (CSE) student at <b>Premier University, Chittagong, Bangladesh</b> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJLKt7BWRIjFtCTU9BebFOvk0G0tSXb09pA&s" width="18"/>.<br>
+# Hi There 👋
+I'm a Computer Science and Engineering (CSE) student at <b>Premier University, Chittagong, Bangladesh</b> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJLKt7BWRIjFtCTU9BebFOvk0G0tSXb09pA&s" width="18"/><br>
 I'm passionate about building clean and efficient software, and my goal is to become a <b>skilled Software Engineer</b>. I'm currently learning <b>Java</b> and exploring the world of development, one project at a time.
 
 
