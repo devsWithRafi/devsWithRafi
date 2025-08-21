@@ -28,7 +28,6 @@ I'm passionate about building clean and efficient software, and my goal is to be
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsWithRafi&layout=compact&theme=radical&cache_seconds=60)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devsWithRafi&show_icons=true&theme=radical)](https://github.com/devsWithRafi)
 
 
 
