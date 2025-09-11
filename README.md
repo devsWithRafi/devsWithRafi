@@ -42,7 +42,9 @@ I'm passionate about building clean and efficient software, and my goal is to be
 
 ![Devs With Rafi GitHub stats](https://github-readme-stats.vercel.app/api?username=devsWithRafi&show_icons=true&theme=radical&cache_seconds=60) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsWithRafi&layout=compact&theme=radical&cache_seconds=60)
 
-[![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devsWithRafi&theme=react-dark&hide_border=true)](https://github.com/YOUR_USERNAME/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devsWithRafi&bg_color=0d1117&color=ff4d7a&line=ff1a4d&point=ff6680&area=true&hide_border=true)](https://github.com/YOUR_USERNAME/github-readme-activity-graph)
+
+
 
 
 
