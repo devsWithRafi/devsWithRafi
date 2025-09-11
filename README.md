@@ -40,9 +40,10 @@ I'm passionate about building clean and efficient software, and my goal is to be
 
 ### 📊 GitHub Stats  
 
-![Devs With Rafi GitHub stats](https://github-readme-stats.vercel.app/api?username=devsWithRafi&show_icons=true&theme=radical&cache_seconds=60)
+![Devs With Rafi GitHub stats](https://github-readme-stats.vercel.app/api?username=devsWithRafi&show_icons=true&theme=radical&cache_seconds=60) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsWithRafi&layout=compact&theme=radical&cache_seconds=60)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsWithRafi&layout=compact&theme=radical&cache_seconds=60)
+[![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devsWithRafi&theme=react-dark&hide_border=true)](https://github.com/YOUR_USERNAME/github-readme-activity-graph)
+
 
 
 
