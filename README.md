@@ -1,11 +1,20 @@
 
 <img src="https://github.com/devsWithRafi/devsWithRafi/blob/main/Saiful-Islam-Rafi-Github-benner-image.png">
 
+<h1 align="center">Hi! I'm Saiful Islam</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=25&pause=1000&color=ff4d7a&center=true&width=700&lines=Python+Developer;Aspiring+Machine+Learning+Engineer;Learning+Data+Science;Future+Plan+Deep+Learning+%26+LLM+Models" alt="Typing SVG"/>
+  </a>
+</p>
 
 
-# Hi There 👋
-I'm a Computer Science and Engineering (CSE) student at <b>Premier University, Chittagong, Bangladesh</b> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJLKt7BWRIjFtCTU9BebFOvk0G0tSXb09pA&s" width="18"/><br>
-I'm passionate about building clean and efficient software, and my goal is to become a <b>skilled Software Engineer</b>. I'm currently learning <b>Java</b> and exploring the world of development, one project at a time.
+---
+
+<h3>About Me</h3>
+I’m a Computer Science and Engineering (CSE) student from Bangladesh, learning Data Science and Machine Learning. I work mainly with Python and tools like NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, TensorFlow, and OpenCV to build clean and efficient projects. I enjoy solving real-world problems through code, exploring new technologies, and sharing useful projects and insights with others. My future plan is to dive deeper into Deep Learning and become a skilled Machine Learning Engineer.
+
 
 
 <h3>Contact with me!</h3>
