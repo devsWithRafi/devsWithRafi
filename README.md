@@ -13,7 +13,7 @@
 ---
 
 <h3>About Me</h3>
-I’m a Computer Science and Engineering (CSE) student from Bangladesh, learning Data Science and Machine Learning. I work mainly with Python and tools like NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, TensorFlow, and OpenCV to build clean and efficient projects. I enjoy solving real-world problems through code, exploring new technologies, and sharing useful projects and insights with others. My future plan is to dive deeper into Deep Learning and become a skilled Machine Learning Engineer.
+Learning Data Science and Machine Learning. I work mainly with Python and tools like NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, TensorFlow, and OpenCV to build clean and efficient projects. I enjoy solving real-world problems through code, exploring new technologies, and sharing useful projects and insights with others. My future plan is to dive deeper into Deep Learning and become a skilled Machine Learning Engineer.
 
 ---
 
