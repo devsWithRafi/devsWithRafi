@@ -17,7 +17,7 @@ Learning Data Science and Machine Learning. I work mainly with Python and tools 
 
 ---
 
-[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-D6D6D6?style=for-the-badge&logo=vercel&logoColor=white)](https://saiful-islam-rafi-portfolio-javy.vercel.app/)
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-D6D6D6?style=for-the-badge&logo=vercel&logoColor=white)](https://saiful-islam-rafi-portfolio.vercel.app/)
 
 <h3>Contact with me!</h3>
 
