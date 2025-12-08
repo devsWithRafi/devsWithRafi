@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=25&pause=1000&color=ff4d7a&center=true&width=700&lines=Python+Developer;Aspiring+Machine+Learning+Engineer;Learning+Data+Science;Deep+Learning+%26+LLMs+(Future+Focus)" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=25&pause=1000&color=ff4d7a&center=true&width=700&lines=Frontend+Developer;Aspiring+MERN+Stack+Developer;Learning+Next.JS+And+MERN+Stack;Fullstack+Engineer+(Future+Focus)" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -13,7 +13,8 @@
 ---
 
 <h3>About Me</h3>
-Learning Data Science and Machine Learning. I work mainly with Python and tools like NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, TensorFlow, and OpenCV to build clean and efficient projects. I enjoy solving real-world problems through code, exploring new technologies, and sharing useful projects and insights with others. My future plan is to dive deeper into Deep Learning and become a skilled Machine Learning Engineer.
+I'm currently focused on crafting modern, user-centric frontend interfaces and building scalable, SEO-optimized web applications for enhanced performance using React.js and Next.js. I'm actively learning the MERN stack to develop comprehensive full-stack solutions with robust database architecture and AI chatbot integrations.
+
 
 ---
 
