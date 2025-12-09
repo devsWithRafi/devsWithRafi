@@ -49,7 +49,6 @@ I'm currently focused on crafting modern, user-centric frontend interfaces and b
 ![Static Badge](https://img.shields.io/badge/vercel-%23000?style=for-the-badge&logo=vercel)
 ![Static Badge](https://img.shields.io/badge/render-%23000?style=for-the-badge&logo=render)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Static Badge](https://img.shields.io/badge/pycharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=black)
 
