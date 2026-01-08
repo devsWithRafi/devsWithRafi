@@ -41,6 +41,12 @@ I'm currently focused on crafting modern, user-centric frontend interfaces and b
 ![Static Badge](https://img.shields.io/badge/mongo%20db-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/firebase-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/socket.io-%23010101?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/jsonwebtokens-%23000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/clerk-%236C47FF?style=for-the-badge&logo=clerk&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/betterauth-%23FFFFFF?style=for-the-badge&logo=betterauth&logoColor=white&labelColor=black)
+
 
 
 
