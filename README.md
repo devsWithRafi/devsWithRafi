@@ -2,7 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=devsWithRafi&label=Profile%20views&color=3178C6&style=for-the-badge" alt="profile views" />
 </p>
 
-<img src="https://github.com/devsWithRafi/devsWithRafi/blob/main/saiful-islam-benner-image.png">
+
+![Github-benner-with-text-and-socials](https://github.com/user-attachments/assets/e7240ee4-4cc0-456b-8834-c4d26d73d68a)
 
 <h2 align="center">Hi! Im Saiful Islam Rafi</h2>
 
