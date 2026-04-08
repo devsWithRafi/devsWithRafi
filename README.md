@@ -92,12 +92,12 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsWithRafi&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsWithRafi&layout=compact&theme=radical" alt="top-langs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsWithRafi&theme=radical&background=0d1117&stroke=ff1a4d&fire=ff4d7a&currStreakNum=ff6680&currStreakLabel=ff4d7a&sideNums=ff6680&hide_border=true" width="56%" />
+  <img src="https://saiful-islam-rafi-github-readme-sta.vercel.app/api/top-langs?username=devsWithRafi&layout=compact&bg_color=0d1117&border_color=ff1a4d&title_color=ff4d7a&text_color=ff6680&icon_color=ff4d7a&langs_count=6&hide_border=true" width="40%" />
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devsWithRafi&bg_color=0d1117&color=ff4d7a&line=ff1a4d&point=ff6680&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devsWithRafi&bg_color=0d1117&color=ff4d7a&line=ff1a4d&point=ff6680&area=true&hide_border=true" />
 </p>
   
 ---
