@@ -28,27 +28,11 @@
 
 ### 🌐 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/md-saiful-islam-rafi">
-    <img src="https://img.shields.io/badge/LinkedIn-%23127AB2?style=flat-square" />
-  </a>
-  
-  <a href="https://saiful-islam-rafi-resume.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-4FC6C7?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
-  
-  <a href="https://leetcode.com/u/mrrafixyz/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/leetcode-%23FFA116?style=flat-square&logo=Leetcode&logoColor=white">
-  </a>
-  
-  <a href="https://wa.me/8801316999517">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white">
-  </a>
-  
-  <a href="mailto:devsaifulislamrafi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![Static Badge](https://img.shields.io/badge/LinkedIn-%23127AB2?style=flat-square)](https://www.linkedin.com/in/md-saiful-islam-rafi)
+[![Static Badge](https://img.shields.io/badge/Portfolio-4FC6C7?style=flat-square&logo=googlechrome&logoColor=white)](https://saiful-islam-rafi-resume.vercel.app/)
+[![Static Badge](https://img.shields.io/badge/leetcode-%23FFA116?style=flat-square&logo=Leetcode&logoColor=white)](https://leetcode.com/u/mrrafixyz/)
+[![Static Badge](https://img.shields.io/badge/Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801316999517)
+[![Static Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devsaifulislamrafi@gmail.com)
 
 ---
 
